@@ -1,8 +1,6 @@
 # VCapsBench
 VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation  
 
-Note: paper in submission
-
 ## VCapsBench Data
 * [VCapsBench](https://huggingface.co/datasets/somos99/VCapsBench)
 ```
@@ -66,7 +64,7 @@ done
 * wordlength_IR_CR_plot.py
   ![](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.24.18.png)
 
-
+Note: paper in submission
 
 
 
