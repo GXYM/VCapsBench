@@ -44,11 +44,11 @@ done
 ```
 ##  Evaluation Result Visualization Script
 * RadarChartPlot.py
-  [](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.23.55.png)
+  ![](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.23.55.png)
 * WordLength.py
-  [](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.24.42.png)
+  ![](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.24.42.png)
 * wordlength_IR_CR_plot.py
-  [](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.24.18.png)
+  ![](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.24.18.png)
 
 
 
