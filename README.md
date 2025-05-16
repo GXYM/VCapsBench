@@ -1,6 +1,8 @@
 # VCapsBench
 VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation  
 
+Note: paper in submission
+
 ## VCapsBench Data
 * [VCapsBench](https://huggingface.co/datasets/somos99/VCapsBench)
 ```
