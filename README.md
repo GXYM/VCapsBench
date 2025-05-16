@@ -2,9 +2,23 @@
 VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation  
 
 ## VCapsBench Data
+* [VCapsBench](https://huggingface.co/datasets/somos99/VCapsBench)
 ```
 Huggingface: somos99/VCapsBench
 ```
+
+## Video Caption Raw Data
+
+* [VCapsbench_Caption_ALL.csv.zip](https://huggingface.co/datasets/somos99/VCapsBench/blob/main/VCapsbench_Caption_ALL.csv.zip)
+
+
+## Video Caption Evaluation Results Data
+
+* [Gemini-2.5-Pro-Preview as Evaluation Expert](https://huggingface.co/datasets/somos99/VCapsBench/blob/main/gemini_eval_results.zip)
+
+* [GPT-4.1 as Evaluation Expert](https://huggingface.co/datasets/somos99/VCapsBench/blob/main/gpt_eval_results.zip)
+
+
 ## Video Caption Generate Script in VLMs
 * Qwen2.5-VL-72B
 * Qwen2.5-VL-7B 
