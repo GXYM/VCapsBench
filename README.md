@@ -1,4 +1,4 @@
-# VCapsBench: Large-scale Fine-grained Video Captioning Benchmark
+# VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation
 
 ![Sample Visualization](https://github.com/GXYM/VCapsBench/blob/main/imgs/iShot_2025-05-16_19.23.55.png?raw=true)  
 *Visualization of evaluation metrics across different models (RadarChartPlot.py)*
