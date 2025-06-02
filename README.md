@@ -83,4 +83,10 @@ done
 
 ## 📄 Citation
 ```
+@article{zhang2025vcapsbench,
+  title={VCapsBench: A Large-scale Fine-grained Benchmark for Video Caption Quality Evaluation},
+  author={Zhang, Shi-Xue and Wang, Hongfa and Huang, Duojun and Li, Xin and Zhu, Xiaobin and Yin, Xu-Cheng},
+  journal={arXiv preprint arXiv:2505.23484},
+  year={2025}
+}
 ```
